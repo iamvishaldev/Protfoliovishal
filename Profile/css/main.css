@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1bbc9b;
+  color: #ecfdf9;
+}
+
+.images {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: #0a8269 2px 5px 5px;
+}
+
+.site-header {
+  background-color: #1bbc9b;
+  color: #ecfdf9;
+  height: 100vh;
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.site-header-container {
+  margin: 1rem;
+}
+
+.skills {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.link {
+  background-color: #1bbc9b;
+  color: #ecfdf9;
+}
